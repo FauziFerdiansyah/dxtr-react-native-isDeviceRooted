@@ -1,5 +1,5 @@
 {
-  "name": "dxtr-react-native-is-device-rooted",
+  "name": "@fauziferdiansyah/dxtr-react-native-is-device-rooted",
   "version": "1.1.0",
   "description": "A React Native Library to check if a device is rooted or jailbroken. It also checks if screen lock is enabled",
   "main": "index.js",
@@ -20,9 +20,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FauziFerdiansyah/dxtr-react-native-isDeviceRooted"
+    "url": "git+https://github.com/FauziFerdiansyah/dxtr-react-native-isDeviceRooted.git"
   },
   "peerDependencies": {
     "react-native": "^0.27.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/FauziFerdiansyah/dxtr-react-native-isDeviceRooted/issues"
+  },
+  "homepage": "https://github.com/FauziFerdiansyah/dxtr-react-native-isDeviceRooted#readme"
 }
